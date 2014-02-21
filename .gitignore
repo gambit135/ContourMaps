@@ -1,0 +1,11 @@
+/target
+/.classpath
+/.project
+/.settings
+/tomcat.*
+/.idea
+/*.iml
+/*.lnk
+/Thumbs.db
+/*.doc
+/*.tmp
